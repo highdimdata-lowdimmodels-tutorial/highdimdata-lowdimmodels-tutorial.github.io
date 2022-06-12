@@ -79,7 +79,7 @@ The major reference is the following book:
 
 John Wright and Yi Ma. "[High-Dimensional Data Analysis with Low-Dimensional
 Models: Principles, Computation, and
-Applications](https://book-wright-ma.github.io/)".  *Cambridge University
+Applications](https://book-wright-ma.github.io/){:target="_blank"} {::comment}__{:/comment}".  *Cambridge University
 Press*, 2022.
 
 A full pre-production edition of the book is available at this link.
