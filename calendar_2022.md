@@ -10,6 +10,7 @@ nav_order: 0
 
 # Calendar
 
-{% for module in site.modules %}
+{% assign modules = site.modules | where: "year", "2022" %}
+{% for module in modules %}
 {{ module }}
 {% endfor %}

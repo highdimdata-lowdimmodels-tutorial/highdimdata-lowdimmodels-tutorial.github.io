@@ -88,23 +88,29 @@ A full pre-production edition of the book is available at this link.
 ## Course Overview
 
 The course starts by introducing fundamental linear low-dimensional models
-(e.g., basic sparse and low-rank models) and convex relaxation approaches with
-motivating engineering applications, followed by a suite of scalable and
-efficient optimization methods. Based on these developments, we introduce
-nonlinear low-dimensional models for several fundamental learning and inverse
-problems (e.g., dictionary learning and sparse blind deconvolution), and
-nonconvex approaches from a symmetry and geometric perspective, followed by
-their guaranteed correctness and efficient nonconvex optimization. Building
-upon these results, we proceed to discuss strong conceptual, algorithmic, and
-theoretical connections between low-dimensional structures and deep models,
-providing new perspectives to understand state-of-the-art deep models, as well
-as leading to new principles for designing deep networks for learning
-low-dimensional structures, with both clear interpretability and practical
-benefits.
+(e.g., basic sparse and low-rank models), as well as their connection to (deep)
+learning-based approaches via learned optimization methods. In a similar vein,
+we then discuss nonlinear low-dimensional models for several fundamental
+learning and inverse problems (e.g., dictionary learning and sparse blind
+deconvolution) and the associated nonconvex optimization toolkit from a
+symmetry and geometry-based perspective, along with associated approaches for 
+designing deep networks for learning low-dimensional structures, with both
+interpretability and practical benefits.  Building upon these results, we
+proceed to discuss strong conceptual, algorithmic, and theoretical connections
+between low-dimensional structures and deep models, first in the context of
+featue learning (neural collapse) in classification tasks with feedforward
+neural networks under a nonconvex optimization model, and then in the
+context of general nonlinear low-dimensional manifold models for signals. In
+this latter setting, we will begin to lay the foundations for understanding
+resource tradeoffs in deep learning with low-dimensional data, analogous to the
+case of sparse signals and convex recovery, and in addition we will see how
+modern high-performance neural network architectures, namely transformers, can
+be derived from this perspective.
 
 ## List of Lectures
 
-{% for module in site.modules %}
+{% assign modules = site.modules | where: "year", "2023" %}
+{% for module in modules %}
 {{ module }}
 {% endfor %}
 
