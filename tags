@@ -5177,6 +5177,7 @@
 20	_site/assets/js/search-data.json	/^  },"20": {$/;"	o
 21	_site/assets/js/search-data.json	/^  },"21": {$/;"	o
 22	_site/assets/js/search-data.json	/^  },"22": {$/;"	o
+23	_site/assets/js/search-data.json	/^  },"23": {$/;"	o
 3	_site/assets/js/search-data.json	/^  },"3": {$/;"	o
 4	_site/assets/js/search-data.json	/^  },"4": {$/;"	o
 5	_site/assets/js/search-data.json	/^  },"5": {$/;"	o
@@ -5230,6 +5231,7 @@ AnonymousFunction44e4342b0700	_site/assets/js/just-the-docs.js	/^        timeout
 Atlas Wang	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Atlas Wang	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Beyond the Course	README.md	/^## Beyond the Course$/;"	s	chapter:Learning Nonlinear and Deep Low-Dimensional Representations from High-Dimensional Data: From Theory to Practice
+Beyond the Course	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Calendar	_site/2022/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Calendar	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Calendar	calendar.md	/^# Calendar$/;"	c
@@ -5287,6 +5289,7 @@ John Wright	_site/2022/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><
 John Wright	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 John Wright	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Learning Nonlinear and Deep Low-Dimensional Representations from High-Dimensional Data: From Theory to Practice	README.md	/^# Learning Nonlinear and Deep Low-Dimensional Representations from High-Dimensional Data: From T/;"	c
+Learning Nonlinear and Deep Low-Dimensional Representations from High-Dimensional Data: From Theory to Practice	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Lectures | ICASSP 2023 SC2	_site/2022/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Lectures | ICASSP 2023 SC2	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Link	_layouts/minimal.html	/^      <title>Link<\/title>$/;"	j
@@ -5307,7 +5310,6 @@ List of Lectures	_site/2022/index.html	/^<!DOCTYPE html><html lang="en-US"><head
 List of Lectures	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Low-Dimensional Models for High-Dimensional Data: From Linear to Nonlinear, Convex to Nonconvex, and Shallow to Deep	2022_home.md	/^# Low-Dimensional Models for High-Dimensional Data: From Linear to Nonlinear, Convex to Nonconve/;"	c
 Low-Dimensional Models for High-Dimensional Data: From Linear to Nonlinear, Convex to Nonconvex, and Shallow to Deep	_site/2022/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Low-Dimensional Models for High-Dimensional Data: From Linear to Nonlinear, Convex to Nonconvex, and Shallow to Deep	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Menu	_site/2022/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Menu	_site/2022/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Menu	_site/2022/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5382,6 +5384,7 @@ b	_site/assets/css/just-the-docs-dark.css	/^b, strong { font-weight: bolder; }$/
 b	_site/assets/css/just-the-docs-default.css	/^b, strong { font-weight: bolder; }$/;"	s
 b	_site/assets/css/just-the-docs-light.css	/^b, strong { font-weight: bolder; }$/;"	s
 back-to-top	_layouts/minimal.html	/^            <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}<\/a><\/p>$/;"	I
+beyond-the-course	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 blockquote	_site/assets/css/just-the-docs-dark.css	/^blockquote { margin: 10px 0; margin-block-start: 0; margin-inline-start: 0; padding-left: 15px; /;"	s
 blockquote	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 blockquote	_site/assets/css/just-the-docs-default.css	/^blockquote { margin: 10px 0; margin-block-start: 0; margin-inline-start: 0; padding-left: 15px; /;"	s
@@ -5434,21 +5437,22 @@ code.language-mermaid	_site/assets/css/just-the-docs-dark.css	/^code.language-me
 code.language-mermaid	_site/assets/css/just-the-docs-default.css	/^code.language-mermaid { padding: 0; background-color: inherit; border: 0; }$/;"	c
 code.language-mermaid	_site/assets/css/just-the-docs-light.css	/^code.language-mermaid { padding: 0; background-color: inherit; border: 0; }$/;"	c
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:11
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:13
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:14
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:16
+content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:15
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:17
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:19
+content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:18
+content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:20
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:4
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:6
-content	_site/assets/js/search-data.json	/^    "content": "2022 . ",$/;"	s	object:20
-content	_site/assets/js/search-data.json	/^    "content": "Atlas Wang . atlaswang@utexas.edu . UT Austin . John Wright . jw2966@columbia.ed/;"	s	object:21
+content	_site/assets/js/search-data.json	/^    "content": "2022 . ",$/;"	s	object:21
+content	_site/assets/js/search-data.json	/^    "content": "A new conference is being organized – the Conference on Parsimony and Learning/;"	s	object:13
+content	_site/assets/js/search-data.json	/^    "content": "Atlas Wang . atlaswang@utexas.edu . UT Austin . John Wright . jw2966@columbia.ed/;"	s	object:22
 content	_site/assets/js/search-data.json	/^    "content": "ICASSP 2022, Singapore . John Wright . jw2966@columbia.edu . Columbia University/;"	s	object:0
 content	_site/assets/js/search-data.json	/^    "content": "ICASSP 2023, Rhodes, Greece . Atlas Wang . atlaswang@utexas.edu . UT Austin . Jo/;"	s	object:7
-content	_site/assets/js/search-data.json	/^    "content": "John Wright . jw2966@columbia.edu . Columbia University . Qing Qu . qingqu@umich/;"	s	object:22
+content	_site/assets/js/search-data.json	/^    "content": "John Wright . jw2966@columbia.edu . Columbia University . Qing Qu . qingqu@umich/;"	s	object:23
 content	_site/assets/js/search-data.json	/^    "content": "Lecture 1 Introduction to Low-Dimensional Models John Wright . | Chapters 2-6, W/;"	s	object:12
-content	_site/assets/js/search-data.json	/^    "content": "Lecture 1 Introduction to Low-Dimensional Models John Wright . | Chapters 2-6, W/;"	s	object:15
-content	_site/assets/js/search-data.json	/^    "content": "Lecture 1 Introduction to Low-Dimensional Models John Wright . | Chapters 2-6, W/;"	s	object:18
+content	_site/assets/js/search-data.json	/^    "content": "Lecture 1 Introduction to Low-Dimensional Models John Wright . | Chapters 2-6, W/;"	s	object:16
+content	_site/assets/js/search-data.json	/^    "content": "Lecture 1 Introduction to Low-Dimensional Models John Wright . | Chapters 2-6, W/;"	s	object:19
 content	_site/assets/js/search-data.json	/^    "content": "Lecture 1 Introduction to Low-Dimensional Models John Wright . | Chapters 2-6, W/;"	s	object:5
 content	_site/assets/js/search-data.json	/^    "content": "The course starts by introducing fundamental linear low-dimensional models (e.g./;"	s	object:10
 content	_site/assets/js/search-data.json	/^    "content": "The course starts by introducing fundamental linear low-dimensional models (e.g./;"	s	object:3
@@ -5550,11 +5554,12 @@ div.opaque	_site/assets/css/just-the-docs-light.css	/^div.opaque { background-co
 dl	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 dl	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 dl	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
-doc	_site/assets/js/search-data.json	/^    "doc": "Courses from Prior Years",$/;"	s	object:20
+doc	_site/assets/js/search-data.json	/^    "doc": "Courses from Prior Years",$/;"	s	object:21
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:10
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:11
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:12
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:13
+doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:14
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:7
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:8
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:9
@@ -5565,14 +5570,14 @@ doc	_site/assets/js/search-data.json	/^    "doc": "ICASSP 2022 SC1",$/;"	s	objec
 doc	_site/assets/js/search-data.json	/^    "doc": "ICASSP 2022 SC1",$/;"	s	object:4
 doc	_site/assets/js/search-data.json	/^    "doc": "ICASSP 2022 SC1",$/;"	s	object:5
 doc	_site/assets/js/search-data.json	/^    "doc": "ICASSP 2022 SC1",$/;"	s	object:6
-doc	_site/assets/js/search-data.json	/^    "doc": "Instructors",$/;"	s	object:21
 doc	_site/assets/js/search-data.json	/^    "doc": "Instructors",$/;"	s	object:22
-doc	_site/assets/js/search-data.json	/^    "doc": "Lectures",$/;"	s	object:14
+doc	_site/assets/js/search-data.json	/^    "doc": "Instructors",$/;"	s	object:23
 doc	_site/assets/js/search-data.json	/^    "doc": "Lectures",$/;"	s	object:15
 doc	_site/assets/js/search-data.json	/^    "doc": "Lectures",$/;"	s	object:16
 doc	_site/assets/js/search-data.json	/^    "doc": "Lectures",$/;"	s	object:17
 doc	_site/assets/js/search-data.json	/^    "doc": "Lectures",$/;"	s	object:18
 doc	_site/assets/js/search-data.json	/^    "doc": "Lectures",$/;"	s	object:19
+doc	_site/assets/js/search-data.json	/^    "doc": "Lectures",$/;"	s	object:20
 edit-this-page	_layouts/minimal.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
 fieldset	_site/assets/css/just-the-docs-dark.css	/^fieldset { padding: 0.35em 0.75em 0.625em; }$/;"	s
 fieldset	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
@@ -5739,6 +5744,7 @@ kbd	_site/assets/css/just-the-docs-dark.css	/^code, kbd, samp { font-family: mon
 kbd	_site/assets/css/just-the-docs-default.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 kbd	_site/assets/css/just-the-docs-light.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 label	_sass/custom/card.scss	/^  .label {$/;"	c
+learning-nonlinear-and-deep-low-dimensional-representations-from-high-dimensional-data-from-theory-to-practice	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 lecture	_sass/custom/schedule.scss	/^    &.lecture {$/;"	c
 legend	_site/assets/css/just-the-docs-dark.css	/^legend { box-sizing: border-box; \/* 1 *\/ color: inherit; \/* 2 *\/ display: table; \/* 1 *\/ m/;"	s
 legend	_site/assets/css/just-the-docs-default.css	/^legend { box-sizing: border-box; \/* 1 *\/ color: inherit; \/* 2 *\/ display: table; \/* 1 *\/ m/;"	s
@@ -5754,7 +5760,6 @@ list-of-lectures	_site/2022/index.html	/^<!DOCTYPE html><html lang="en-US"><head
 list-of-lectures	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 location	_sass/custom/schedule.scss	/^    .location {$/;"	c
 low-dimensional-models-for-high-dimensional-data-from-linear-to-nonlinear-convex-to-nonconvex-and-shallow-to-deep	_site/2022/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-low-dimensional-models-for-high-dimensional-data-from-linear-to-nonlinear-convex-to-nonconvex-and-shallow-to-deep	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main	_site/assets/css/just-the-docs-dark.css	/^main { display: block; }$/;"	s
 main	_site/assets/css/just-the-docs-default.css	/^main { display: block; }$/;"	s
 main	_site/assets/css/just-the-docs-light.css	/^main { display: block; }$/;"	s
@@ -5837,22 +5842,23 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/2022\/#course-resourc
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/2022\/#links-to-slides-relevant-chapters-in-wm22-and-extra-reading-and-presente/;"	s	object:5
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/2022\/#list-of-lectures"$/;"	s	object:4
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/2022\/#low-dimensional-models-for-high-dimensional-data-from-linear-to-nonlinea/;"	s	object:0
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/2022\/calendar\/"$/;"	s	object:19
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/2022\/calendar\/#calendar"$/;"	s	object:17
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/2022\/calendar\/#links-to-slides-relevant-chapters-in-wm22-and-extra-reading-an/;"	s	object:18
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/2022\/speakers\/"$/;"	s	object:22
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/"$/;"	s	object:16
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/#calendar"$/;"	s	object:14
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/#links-to-slides-relevant-chapters-in-wm22-and-extra-reading-and-pres/;"	s	object:15
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html"$/;"	s	object:13
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/2022\/calendar\/"$/;"	s	object:20
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/2022\/calendar\/#calendar"$/;"	s	object:18
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/2022\/calendar\/#links-to-slides-relevant-chapters-in-wm22-and-extra-reading-an/;"	s	object:19
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/2022\/speakers\/"$/;"	s	object:23
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/"$/;"	s	object:17
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/#calendar"$/;"	s	object:15
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/#links-to-slides-relevant-chapters-in-wm22-and-extra-reading-and-pres/;"	s	object:16
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html"$/;"	s	object:14
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#beyond-the-course"$/;"	s	object:13
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#course-overview"$/;"	s	object:10
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#course-rationale"$/;"	s	object:8
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#course-resources"$/;"	s	object:9
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#learning-nonlinear-and-deep-low-dimensional-representations-from-hig/;"	s	object:7
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#links-to-slides-relevant-chapters-in-wm22-and-extra-reading-and-pres/;"	s	object:12
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#list-of-lectures"$/;"	s	object:11
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#low-dimensional-models-for-high-dimensional-data-from-linear-to-nonl/;"	s	object:7
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/past_years\/"$/;"	s	object:20
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:21
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/past_years\/"$/;"	s	object:21
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:22
 removeEvent	_site/assets/js/just-the-docs.js	/^jtd.removeEvent = function(el, type, handler) {$/;"	f	function:jtd
 samp	_site/assets/css/just-the-docs-dark.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 samp	_site/assets/css/just-the-docs-default.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
@@ -6105,29 +6111,30 @@ thead th	_site/assets/css/just-the-docs-dark.css	/^thead th { border-bottom: 1px
 thead th	_site/assets/css/just-the-docs-default.css	/^thead th { border-bottom: 1px solid #eeebee; }$/;"	s
 thead th	_site/assets/css/just-the-docs-light.css	/^thead th { border-bottom: 1px solid #eeebee; }$/;"	s
 time	_sass/custom/schedule.scss	/^    .time,$/;"	c
-title	_site/assets/js/search-data.json	/^    "title": "Calendar",$/;"	s	object:14
-title	_site/assets/js/search-data.json	/^    "title": "Calendar",$/;"	s	object:17
+title	_site/assets/js/search-data.json	/^    "title": "Beyond the Course",$/;"	s	object:13
+title	_site/assets/js/search-data.json	/^    "title": "Calendar",$/;"	s	object:15
+title	_site/assets/js/search-data.json	/^    "title": "Calendar",$/;"	s	object:18
 title	_site/assets/js/search-data.json	/^    "title": "Course Overview",$/;"	s	object:10
 title	_site/assets/js/search-data.json	/^    "title": "Course Overview",$/;"	s	object:3
 title	_site/assets/js/search-data.json	/^    "title": "Course Rationale",$/;"	s	object:1
 title	_site/assets/js/search-data.json	/^    "title": "Course Rationale",$/;"	s	object:8
 title	_site/assets/js/search-data.json	/^    "title": "Course Resources",$/;"	s	object:2
 title	_site/assets/js/search-data.json	/^    "title": "Course Resources",$/;"	s	object:9
-title	_site/assets/js/search-data.json	/^    "title": "Courses from Prior Years",$/;"	s	object:20
-title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:13
+title	_site/assets/js/search-data.json	/^    "title": "Courses from Prior Years",$/;"	s	object:21
+title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:14
 title	_site/assets/js/search-data.json	/^    "title": "ICASSP 2022 SC1",$/;"	s	object:6
-title	_site/assets/js/search-data.json	/^    "title": "Instructors",$/;"	s	object:21
 title	_site/assets/js/search-data.json	/^    "title": "Instructors",$/;"	s	object:22
-title	_site/assets/js/search-data.json	/^    "title": "Lectures",$/;"	s	object:16
-title	_site/assets/js/search-data.json	/^    "title": "Lectures",$/;"	s	object:19
+title	_site/assets/js/search-data.json	/^    "title": "Instructors",$/;"	s	object:23
+title	_site/assets/js/search-data.json	/^    "title": "Learning Nonlinear and Deep Low-Dimensional Representations from High-Dimensional /;"	s	object:7
+title	_site/assets/js/search-data.json	/^    "title": "Lectures",$/;"	s	object:17
+title	_site/assets/js/search-data.json	/^    "title": "Lectures",$/;"	s	object:20
 title	_site/assets/js/search-data.json	/^    "title": "Links to Slides, Relevant Chapters in [WM22] and Extra Reading, and Presenters",$/;"	s	object:12
-title	_site/assets/js/search-data.json	/^    "title": "Links to Slides, Relevant Chapters in [WM22] and Extra Reading, and Presenters",$/;"	s	object:15
-title	_site/assets/js/search-data.json	/^    "title": "Links to Slides, Relevant Chapters in [WM22] and Extra Reading, and Presenters",$/;"	s	object:18
+title	_site/assets/js/search-data.json	/^    "title": "Links to Slides, Relevant Chapters in [WM22] and Extra Reading, and Presenters",$/;"	s	object:16
+title	_site/assets/js/search-data.json	/^    "title": "Links to Slides, Relevant Chapters in [WM22] and Extra Reading, and Presenters",$/;"	s	object:19
 title	_site/assets/js/search-data.json	/^    "title": "Links to Slides, Relevant Chapters in [WM22] and Extra Reading, and Presenters",$/;"	s	object:5
 title	_site/assets/js/search-data.json	/^    "title": "List of Lectures",$/;"	s	object:11
 title	_site/assets/js/search-data.json	/^    "title": "List of Lectures",$/;"	s	object:4
 title	_site/assets/js/search-data.json	/^    "title": "Low-Dimensional Models for High-Dimensional Data: From Linear to Nonlinear, Convex/;"	s	object:0
-title	_site/assets/js/search-data.json	/^    "title": "Low-Dimensional Models for High-Dimensional Data: From Linear to Nonlinear, Convex/;"	s	object:7
 top	_site/2022/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 top	_site/2022/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 top	_site/2022/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6166,22 +6173,23 @@ url	_site/assets/js/search-data.json	/^    "url": "\/2022\/#course-resources",$/
 url	_site/assets/js/search-data.json	/^    "url": "\/2022\/#links-to-slides-relevant-chapters-in-wm22-and-extra-reading-and-presenters"/;"	s	object:5
 url	_site/assets/js/search-data.json	/^    "url": "\/2022\/#list-of-lectures",$/;"	s	object:4
 url	_site/assets/js/search-data.json	/^    "url": "\/2022\/#low-dimensional-models-for-high-dimensional-data-from-linear-to-nonlinear-c/;"	s	object:0
-url	_site/assets/js/search-data.json	/^    "url": "\/2022\/calendar\/",$/;"	s	object:19
-url	_site/assets/js/search-data.json	/^    "url": "\/2022\/calendar\/#calendar",$/;"	s	object:17
-url	_site/assets/js/search-data.json	/^    "url": "\/2022\/calendar\/#links-to-slides-relevant-chapters-in-wm22-and-extra-reading-and-p/;"	s	object:18
-url	_site/assets/js/search-data.json	/^    "url": "\/2022\/speakers\/",$/;"	s	object:22
-url	_site/assets/js/search-data.json	/^    "url": "\/calendar\/",$/;"	s	object:16
-url	_site/assets/js/search-data.json	/^    "url": "\/calendar\/#calendar",$/;"	s	object:14
-url	_site/assets/js/search-data.json	/^    "url": "\/calendar\/#links-to-slides-relevant-chapters-in-wm22-and-extra-reading-and-present/;"	s	object:15
-url	_site/assets/js/search-data.json	/^    "url": "\/index.html",$/;"	s	object:13
+url	_site/assets/js/search-data.json	/^    "url": "\/2022\/calendar\/",$/;"	s	object:20
+url	_site/assets/js/search-data.json	/^    "url": "\/2022\/calendar\/#calendar",$/;"	s	object:18
+url	_site/assets/js/search-data.json	/^    "url": "\/2022\/calendar\/#links-to-slides-relevant-chapters-in-wm22-and-extra-reading-and-p/;"	s	object:19
+url	_site/assets/js/search-data.json	/^    "url": "\/2022\/speakers\/",$/;"	s	object:23
+url	_site/assets/js/search-data.json	/^    "url": "\/calendar\/",$/;"	s	object:17
+url	_site/assets/js/search-data.json	/^    "url": "\/calendar\/#calendar",$/;"	s	object:15
+url	_site/assets/js/search-data.json	/^    "url": "\/calendar\/#links-to-slides-relevant-chapters-in-wm22-and-extra-reading-and-present/;"	s	object:16
+url	_site/assets/js/search-data.json	/^    "url": "\/index.html",$/;"	s	object:14
+url	_site/assets/js/search-data.json	/^    "url": "\/index.html#beyond-the-course",$/;"	s	object:13
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html#course-overview",$/;"	s	object:10
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html#course-rationale",$/;"	s	object:8
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html#course-resources",$/;"	s	object:9
+url	_site/assets/js/search-data.json	/^    "url": "\/index.html#learning-nonlinear-and-deep-low-dimensional-representations-from-high-d/;"	s	object:7
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html#links-to-slides-relevant-chapters-in-wm22-and-extra-reading-and-present/;"	s	object:12
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html#list-of-lectures",$/;"	s	object:11
-url	_site/assets/js/search-data.json	/^    "url": "\/index.html#low-dimensional-models-for-high-dimensional-data-from-linear-to-nonline/;"	s	object:7
-url	_site/assets/js/search-data.json	/^    "url": "\/past_years\/",$/;"	s	object:20
-url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:21
+url	_site/assets/js/search-data.json	/^    "url": "\/past_years\/",$/;"	s	object:21
+url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:22
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/staffer.html	/^    <\/h3>$/;"	j
 {{ day.name }}	_layouts/schedule.html	/^      <h2 class="schedule-header">{{ day.name }}<\/h2>$/;"	i
 {{ page.title | slugify }}	_layouts/module.html	/^<h2 class="fs-4" id="{{ page.title | slugify }}" >{{ page.title }}<\/h2>$/;"	I

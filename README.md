@@ -114,7 +114,7 @@ A new conference is being organized -- the [Conference on Parsimony and
 Learning](https://cpal.cc) -- with the aim of bringing together researchers
 working on topics that we have touched on in the course and creating a venue
 for the presentation and dissemination of outstanding research in these areas. 
-Atendees are encouraged to consider submitting work and attending in the
+Attendees are encouraged to consider submitting work and attending in the
 future.
 
 [![CPAL Logo]({{ site.baseurl }}/assets/images/logo_text.png)](https://cpal.cc)
