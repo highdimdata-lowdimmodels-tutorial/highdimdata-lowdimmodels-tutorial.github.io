@@ -1,14 +1,15 @@
 ---
 layout: home
-title: ICASSP 2022 SC1
+title: Home
 nav_exclude: true
 permalink: index.html
+nav_order: 0
 ---
 
-# Low-Dimensional Models for High-Dimensional Data: From Linear to Nonlinear, Convex to Nonconvex, and Shallow to Deep
-### ICASSP 2022, Singapore
+# Learning Nonlinear and Deep Low-Dimensional Representations from High-Dimensional Data: From Theory to Practice
+### ICASSP 2023, Rhodes, Greece
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% assign instructors = site.speakers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
@@ -106,3 +107,15 @@ benefits.
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
+
+## Beyond the Course
+
+A new conference is being organized -- the [Conference on Parsimony and
+Learning](https://cpal.cc) -- with the aim of bringing together researchers
+working on topics that we have touched on in the course and creating a venue
+for the presentation and dissemination of outstanding research in these areas. 
+Atendees are encouraged to consider submitting work and attending in the
+future.
+
+[![CPAL Logo]({{ site.baseurl }}/assets/images/logo_text.png)](https://cpal.cc)
+

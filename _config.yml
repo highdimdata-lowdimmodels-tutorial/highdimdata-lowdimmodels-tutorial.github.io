@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ICASSP 2022 SC1
-tagline: Short Course 1 from ICASSP 2022
+title: ICASSP 2023 SC2
+tagline: Short Course 2 from ICASSP 2023
 description: >- # this means to ignore newlines until "baseurl:" 
-  Course website for the ICASSP 2022 Short Course "Low-Dimensional Models for
-  High-Dimensional Data: From Linear to Nonlinear, Convex to Nonconvex, and
-  Shallow to Deep", with course information and materials.
+  Course website for the ICASSP 2023 Short Course "Learning Nonlinear and Deep
+  Low-Dimensional Representations from High-Dimensional Data: From Theory to
+  Practice", with course information and materials.
 domain: highdimdata-lowdimmodels-tutorial.github.io
 url: https://highdimdata-lowdimmodels-tutorial.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.3.3
+remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 search_enabled: false
 heading_anchors: true
@@ -39,7 +39,8 @@ footer_content:
 
 # Collections for website data
 collections:
-  staffers:
+  speakers:
+  speakers2022:
   modules:
   schedules:
   announcements:
@@ -47,7 +48,13 @@ collections:
 defaults:
   - scope:
       path: ''
-      type: staffers
+      type: speakers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: speakers2022
     values:
       layout: staffer
       subpath: '/assets/images/'
