@@ -11,7 +11,11 @@ Lecture 1
 Lecture 2
 : [Learning Unrolled Networks for Sparse Recovery]({{ site.baseurl }}/assets/slides/Lec2.pdf){:target="_blank"} {::comment}__{:/comment}
   : Atlas Wang
-<!--: %- Chapter 8, [WM22](https://book-wright-ma.github.io/){:target="_blank"} {::comment}__{:/comment}-->
+: - J. Liu, X. Chen, Z. Wang, W. Yin, and H. Cai. “Towards Constituting Mathematical Structures for Learning to Optimize.” ICML 2023
+- (α-β) T. Chen, X. Chen, W. Chen, H. Heaton, J. Liu, and Z. Wang, W. Yin, “Learning to Optimize: A Primer and A Benchmark”, Journal of Machine Learning Research (JMLR), 2022
+- X. Chen, J. Liu, Z. Wang, and W. Yin. “Hyperparameter Tuning is All You Need for LISTA.” NeurIPS 2021
+- J. Liu, X. Chen, Z. Wang, and W. Yin. “ALISTA: Analytic weights are as good as learned weights in LISTA.” ICLR 2019
+- X. Chen, J. Liu, Z. Wang, and W. Yin. “Theoretical Linear Convergence of Unfolded ISTA and its Practical Weights and Thresholds.” NeurIPS 2018.
 
 Lecture 3
 : Design Deep Networks for Pursuing Low-Dimensional Structures<!--: [Design Deep Networks for Pursuing Low-Dimensional Structures]({{ site.baseurl }}/assets/slides/Lec5.pdf){:target="_blank"} {::comment}__{:/comment}-->
@@ -33,6 +37,8 @@ Lectures 5--6
 : - [A Geometric Analysis of Neural Collapse with Unconstrained Features](https://arxiv.org/abs/2105.02375){:target="_blank"} {::comment}__{:/comment}
 - [On the Optimization Landscape of Neural Collapse under MSE Loss: Global Optimality with Unconstrained Features](https://arxiv.org/abs/2203.01238){:target="_blank"} {::comment}__{:/comment}
 - [Robust Training under Label Noise by Over-parameterization](https://arxiv.org/abs/2202.14026){:target="_blank"} {::comment}__{:/comment}
+- [The Law of Parsimony in Gradient Descent for Learning Deep Linear Networks](https://arxiv.org/abs/2306.01154){:target="_blank"} {::comment}__{:/comment}
+- [Principled and Efficient Transfer Learning of Deep Models via Neural Collapse ](https://arxiv.org/abs/2212.12206){:target="_blank"} {::comment}__{:/comment}
 
 Lecture 7
 : Deep Representation Learning from the Ground Up<!--: [Deep Representation Learning from the Ground Up]({{ site.baseurl }}/assets/slides/Lec4.pdf){:target="_blank"} {::comment}__{:/comment}-->
