@@ -21,7 +21,6 @@ Lecture 3
 : Design Deep Networks for Pursuing Low-Dimensional Structures<!--: [Design Deep Networks for Pursuing Low-Dimensional Structures]({{ site.baseurl }}/assets/slides/Lec5.pdf){:target="_blank"} {::comment}__{:/comment}-->
   : Yi Ma
 : - Chapter 16, [WM22](https://book-wright-ma.github.io/){:target="_blank"} {::comment}__{:/comment}
-- [Slides for ICASSP 2022 plenary lecture](https://www.dropbox.com/s/z03ka878xknxr8y/Closed_Loop_Data_Transcription.pdf?dl=0){:target="_blank"} {::comment}__{:/comment}
 - [ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction](https://jmlr.org/papers/v23/21-0631.html){:target="_blank"} {::comment}__{:/comment}
 - [CTRL: Closed-Loop Transcription to an LDR via Minimaxing Rate Reduction](https://www.mdpi.com/1099-4300/24/4/456/htm){:target="_blank"} {::comment}__{:/comment}
 
