@@ -25,7 +25,7 @@ Lecture 3
 - [CTRL: Closed-Loop Transcription to an LDR via Minimaxing Rate Reduction](https://www.mdpi.com/1099-4300/24/4/456/htm){:target="_blank"} {::comment}__{:/comment}
 
 Lecture 4
-: Learning Low-Dimensional Models via Nonconvex Optimization<!--: [Learning Low-Dimensional Models via Nonconvex Optimization]({{ site.baseurl }}/assets/slides/Lec3.pdf){:target="_blank"} {::comment}__{:/comment}-->
+: [Learning Low-Dimensional Models via Nonconvex Optimization]({{ site.baseurl }}/assets/slides/Lec4.pdf){:target="_blank"} {::comment}__{:/comment}
   : Yuqian Zhang
 : - Chapters 7, 9, [WM22](https://book-wright-ma.github.io/){:target="_blank"} {::comment}__{:/comment}
 - Survey: ["From Symmetry to Geometry: Tractable Nonconvex Problems"](https://arxiv.org/abs/2007.06753){:target="_blank"} {::comment}__{:/comment}
