@@ -18,7 +18,7 @@ Lecture 2
 - X. Chen, J. Liu, Z. Wang, and W. Yin. “Theoretical Linear Convergence of Unfolded ISTA and its Practical Weights and Thresholds.” NeurIPS 2018.
 
 Lecture 3
-: Design Deep Networks for Pursuing Low-Dimensional Structures<!--: [Design Deep Networks for Pursuing Low-Dimensional Structures]({{ site.baseurl }}/assets/slides/Lec5.pdf){:target="_blank"} {::comment}__{:/comment}-->
+: [Design Deep Networks for Pursuing Low-Dimensional Structures]({{ site.baseurl }}/assets/slides/Lec3.pdf){:target="_blank"} {::comment}__{:/comment}
   : Yi Ma
 : - Chapter 16, [WM22](https://book-wright-ma.github.io/){:target="_blank"} {::comment}__{:/comment}
 - [ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction](https://jmlr.org/papers/v23/21-0631.html){:target="_blank"} {::comment}__{:/comment}
