@@ -38,6 +38,7 @@ Lectures 5--6
 - [Robust Training under Label Noise by Over-parameterization](https://arxiv.org/abs/2202.14026){:target="_blank"} {::comment}__{:/comment}
 - [The Law of Parsimony in Gradient Descent for Learning Deep Linear Networks](https://arxiv.org/abs/2306.01154){:target="_blank"} {::comment}__{:/comment}
 - [Principled and Efficient Transfer Learning of Deep Models via Neural Collapse ](https://arxiv.org/abs/2212.12206){:target="_blank"} {::comment}__{:/comment}
+- [Are All Losses Created Equal: A Neural Collapse Perspective](https://openreview.net/pdf?id=8rfYWE3nyXl){:target="_blank"} {::comment}__{:/comment}
 
 Lecture 7
 : Deep Representation Learning from the Ground Up<!--: [Deep Representation Learning from the Ground Up]({{ site.baseurl }}/assets/slides/Lec4.pdf){:target="_blank"} {::comment}__{:/comment}-->
