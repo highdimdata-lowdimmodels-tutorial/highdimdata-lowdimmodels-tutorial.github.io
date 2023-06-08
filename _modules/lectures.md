@@ -31,8 +31,8 @@ Lecture 4
 - Survey: ["From Symmetry to Geometry: Tractable Nonconvex Problems"](https://arxiv.org/abs/2007.06753){:target="_blank"} {::comment}__{:/comment}
   
 Lectures 5--6
-: Low-Dimensional Representations in Deep Networks<!--: [Low-Dimensional Representations in Deep Networks]({{ site.baseurl }}/assets/slides/Lec4.pdf){:target="_blank"} {::comment}__{:/comment}-->
-  : Qing Qu, Zhihui Zhu
+: Low-Dimensional Representations in Deep Networks ([Part I]({{ site.baseurl }}/assets/slides/Lec5.pdf){:target="_blank"} {::comment}__{:/comment}, [Part II]({{ site.baseurl }}/assets/slides/Lec6.pdf))
+  : Zhihui Zhu, Qing Qu
 : - [A Geometric Analysis of Neural Collapse with Unconstrained Features](https://arxiv.org/abs/2105.02375){:target="_blank"} {::comment}__{:/comment}
 - [On the Optimization Landscape of Neural Collapse under MSE Loss: Global Optimality with Unconstrained Features](https://arxiv.org/abs/2203.01238){:target="_blank"} {::comment}__{:/comment}
 - [Robust Training under Label Noise by Over-parameterization](https://arxiv.org/abs/2202.14026){:target="_blank"} {::comment}__{:/comment}
