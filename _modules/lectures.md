@@ -41,7 +41,7 @@ Lectures 5--6
 - [Are All Losses Created Equal: A Neural Collapse Perspective](https://openreview.net/pdf?id=8rfYWE3nyXl){:target="_blank"} {::comment}__{:/comment}
 
 Lecture 7
-: Deep Representation Learning from the Ground Up<!--: [Deep Representation Learning from the Ground Up]({{ site.baseurl }}/assets/slides/Lec4.pdf){:target="_blank"} {::comment}__{:/comment}-->
+: [Deep Representation Learning from the Ground Up]({{ site.baseurl }}/assets/slides/Lec7.pdf){:target="_blank"} {::comment}__{:/comment}
   : Sam Buchanan
 : - Chapter 16, [WM22](https://book-wright-ma.github.io/){:target="_blank"} {::comment}__{:/comment}
 - [Deep Networks and the Multiple Manifold Problem](https://openreview.net/forum?id=O-6Pm_d_Q-){:target="_blank"} {::comment}__{:/comment}

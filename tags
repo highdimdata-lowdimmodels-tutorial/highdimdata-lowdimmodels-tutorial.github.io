@@ -307,6 +307,9 @@
 .btn-purple:hover	_site/assets/css/just-the-docs-dark.css	/^.btn-purple:hover, .btn-purple.zeroclipboard-is-hover { color: #fff; background-color: #5132cb; /;"	c
 .btn-purple:hover	_site/assets/css/just-the-docs-default.css	/^.btn-purple:hover, .btn-purple.zeroclipboard-is-hover { color: #fff; background-color: #5132cb; /;"	c
 .btn-purple:hover	_site/assets/css/just-the-docs-light.css	/^.btn-purple:hover, .btn-purple.zeroclipboard-is-hover { color: #fff; background-color: #5132cb; /;"	c
+.btn-reset	_site/assets/css/just-the-docs-dark.css	/^.btn-reset { background: none; border: none; margin: 0; text-align: inherit; font: inherit; bord/;"	c
+.btn-reset	_site/assets/css/just-the-docs-default.css	/^.btn-reset { background: none; border: none; margin: 0; text-align: inherit; font: inherit; bord/;"	c
+.btn-reset	_site/assets/css/just-the-docs-light.css	/^.btn-reset { background: none; border: none; margin: 0; text-align: inherit; font: inherit; bord/;"	c
 .btn.disabled	_site/assets/css/just-the-docs-dark.css	/^.btn:disabled, summary:disabled, .btn:disabled:hover, summary:disabled:hover, .btn.disabled, sum/;"	c
 .btn.disabled	_site/assets/css/just-the-docs-default.css	/^.btn:disabled, summary:disabled, .btn:disabled:hover, summary:disabled:hover, .btn.disabled, sum/;"	c
 .btn.disabled	_site/assets/css/just-the-docs-light.css	/^.btn:disabled, summary:disabled, .btn:disabled:hover, summary:disabled:hover, .btn.disabled, sum/;"	c
@@ -4876,11 +4879,11 @@
 .side-bar	_site/assets/css/just-the-docs-light.css	/^.side-bar { z-index: 0; display: flex; flex-wrap: wrap; background-color: #f5f6fa; }$/;"	c
 .side-bar	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 50rem) { .side-bar { flex-flow: column nowrap; position: fixed; width: 248px;/;"	c
 .side-bar	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 66.5rem) { .side-bar { width: calc((100% - 1064px) \/ 2 + 264px); min-width: /;"	c
-.site-button	_site/assets/css/just-the-docs-dark.css	/^.site-button { display: flex; height: 100%; padding: 1rem; align-items: center; background-color/;"	c
+.site-button	_site/assets/css/just-the-docs-dark.css	/^.site-button { display: flex; height: 100%; padding: 1rem; align-items: center; }$/;"	c
 .site-button	_site/assets/css/just-the-docs-dark.css	/^@media print { .site-footer, .site-button, #edit-this-page, #back-to-top, .site-nav, .main-heade/;"	c
-.site-button	_site/assets/css/just-the-docs-default.css	/^.site-button { display: flex; height: 100%; padding: 1rem; align-items: center; background-color/;"	c
+.site-button	_site/assets/css/just-the-docs-default.css	/^.site-button { display: flex; height: 100%; padding: 1rem; align-items: center; }$/;"	c
 .site-button	_site/assets/css/just-the-docs-default.css	/^@media print { .site-footer, .site-button, #edit-this-page, #back-to-top, .site-nav, .main-heade/;"	c
-.site-button	_site/assets/css/just-the-docs-light.css	/^.site-button { display: flex; height: 100%; padding: 1rem; align-items: center; background-color/;"	c
+.site-button	_site/assets/css/just-the-docs-light.css	/^.site-button { display: flex; height: 100%; padding: 1rem; align-items: center; }$/;"	c
 .site-button	_site/assets/css/just-the-docs-light.css	/^@media print { .site-footer, .site-button, #edit-this-page, #back-to-top, .site-nav, .main-heade/;"	c
 .site-button:hover	_site/assets/css/just-the-docs-dark.css	/^.site-button:hover { background-image: linear-gradient(-90deg, #201f23 0%, rgba(32, 31, 35, 0.8)/;"	c
 .site-button:hover	_site/assets/css/just-the-docs-default.css	/^.site-button:hover { background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(235, 237, 245, 0/;"	c
